@@ -52,6 +52,7 @@ PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
 PACKAGES="$PACKAGES luci-theme-argon"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
+PACKAGES="$PACKAGES smartdns-ui"
 #25.12
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
@@ -61,7 +62,6 @@ PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-smartdns-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
-PACKAGES="$PACKAGES smartdns-ui"
 PACKAGES="$PACKAGES luci-app-run"
 
 # 文件管理器
